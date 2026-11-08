@@ -17,3 +17,19 @@ Tenha o Python 3.10 ou superior instalado. No terminal, dentro da pasta do proje
 
 ```bash
 python -m pip install -r requirements.txt
+```
+
+Em seguida, execute o script do modelo:
+
+```bash
+python RedeNeural.py
+```
+
+## 4. Exemplo de Saída
+Como a divisão dos dados de teste (20% = 30 amostras) e a inicialização dos pesos iniciais são aleatórias, a acurácia varia ligeiramente a cada execução. Abaixo está uma amostra de múltiplas execuções seguidas:
+
+![Print dos resultados](Printdosresultados.png)
+
+## 5. Arquivos do Projeto
+- `RedeNeural.py`: Código-fonte principal contendo o pré-processamento e a implementação da rede neural.
+- `requirements.txt`: Lista de bibliotecas dependentes (`numpy`, `scikit-learn`).
