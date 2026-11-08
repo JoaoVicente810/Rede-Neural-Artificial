@@ -1,5 +1,7 @@
 # Classificador Iris com Rede Neural em NumPy
 
+**Aluno:** João Vicente Batista da Cunha
+
 ## 1. Objetivo
 Este projeto implementa e treina uma rede neural artificial para classificar flores do conjunto de dados Iris nas espécies: *setosa*, *versicolor* e *virginica*.
 
