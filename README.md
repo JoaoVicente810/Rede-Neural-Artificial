@@ -13,7 +13,7 @@ Este projeto implementa e treina uma rede neural artificial para classificar flo
 - **Otimização:** Gradiente Descendente.
 
 ## 3. Como Executar
-Tenha o Python 3.10 ou superior instalado. No terminal, instale as dependências:
+Tenha o Python 3.10 ou superior instalado. No terminal, dentro da pasta do projeto, instale as dependências:
 
 ```bash
 python -m pip install -r requirements.txt
